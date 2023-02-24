@@ -42,5 +42,3 @@ st.markdown(findusat_title, unsafe_allow_html=True)
 image1 = Image.open('jjclothingplace.jpg')
 st.image(image1, caption='95 Oxford Street,DN32 7JE')
 
-link = '[GitHub](https://georginapalmer-teampage-teampage-1k7d1b.streamlit.app)'
-st.markdown(link, unsafe_allow_html=True)
