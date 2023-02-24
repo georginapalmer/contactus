@@ -42,20 +42,20 @@ if __name__ == '__main__':
      main()
 
 #contact us: 
-contact_title = '<strong><p style="font-family:Optima; color:Black; font-size: 25px;">Contact us:</p></strong>'
+contact_title = '<strong><p style="font-family:Optima; color:#8B4513; font-size: 25px;">Contact us:</p></strong>'
 st.markdown(contact_title, unsafe_allow_html=True)
-phone_title = '<p style="font-family:Optima; color:Black; font-size: 20px;">Phone us: 07878882575</p>'
+phone_title = '<p style="font-family:Optima; color:#8B4513; font-size: 20px;">Phone us: 07878882575</p>'
 st.markdown(phone_title, unsafe_allow_html=True)
-email_title = '<p style="font-family:Optima; color:Black; font-size: 20px;">Email us: jjclothing@gmail.com</p>'
+email_title = '<p style="font-family:Optima; color:#8B4513; font-size: 20px;">Email us: jjclothing@gmail.com</p>'
 st.markdown(email_title, unsafe_allow_html=True)
 image = Image.open('jjclothing.jpeg')
 st.image(image)
 
 
 #where to find us? 
-findus_title = '<strong><p style="font-family:Optima; color:Black; font-size: 25px;">Find us at: </p></strong>'
+findus_title = '<strong><p style="font-family:Optima; color:#8B4513; font-size: 25px;">Find us at: </p></strong>'
 st.markdown(findus_title, unsafe_allow_html=True)
-findusat_title = '<p style="font-family:Optima; color:Black; font-size: 20px;">95 Oxford Street,DN32 7JE</p>'
+findusat_title = '<p style="font-family:Optima; color:#8B4513; font-size: 20px;">95 Oxford Street,DN32 7JE</p>'
 st.markdown(findusat_title, unsafe_allow_html=True)
 image1 = Image.open('jjclothingplace.jpg')
 st.image(image1, caption='95 Oxford Street,DN32 7JE')
