@@ -41,7 +41,7 @@ if __name__ == '__main__':
      main()
 
 #contact us: 
-contact_title = '<p style="font-family:Optima; color:Black; font-size: 25px;">Contact us:</p>'
+contact_title = '<strong><p style="font-family:Optima; color:Black; font-size: 25px;">Contact us:</p></strong>'
 st.markdown(contact_title, unsafe_allow_html=True)
 phone_title = '<p style="font-family:Optima; color:Black; font-size: 20px;">Phone us: 07878882575</p>'
 st.markdown(phone_title, unsafe_allow_html=True)
@@ -52,7 +52,7 @@ st.image(image)
 
 
 #where to find us? 
-findus_title = '<p style="font-family:Optima; color:Black; font-size: 25px;">Find us at: </p>'
+findus_title = '<strong><p style="font-family:Optima; color:Black; font-size: 25px;">Find us at: </p></strong>'
 st.markdown(findus_title, unsafe_allow_html=True)
 findusat_title = '<p style="font-family:Optima; color:Black; font-size: 20px;">95 Oxford Street,DN32 7JE</p>'
 st.markdown(findusat_title, unsafe_allow_html=True)
