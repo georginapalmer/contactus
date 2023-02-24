@@ -1,5 +1,4 @@
 streamlit
+pillow
 pandas
-cv2
-numpy 
-base64
+pybase64
