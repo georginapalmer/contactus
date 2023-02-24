@@ -31,7 +31,7 @@ def main():
             <a style='color: #8B4513; text-decoration: none;' href='https://charlotteg1224-scenarioweek-homepage-zb4jfq.streamlit.app/'target='_blank'>Home</a> | 
             <a style='color: #8B4513; text-decoration: none;' href=''target='_blank'>Search</a> | 
             <a style='color: #8B4513; text-decoration: none;' href=''target='_blank'>Ready To Wear</a> | 
-            <a style='color: #8B4513; text-decoration: none;' href='https://georginapalmer-contactus-streamlitcontactus-49oqai.streamlit.app/'target='_blank'>Our Team</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href='https://georginapalmer-contactus-streamlitcontactus-49oqai.streamlit.app/'target='_blank'>Team</a> | 
             <a style='color: #8B4513; text-decoration: none;' href='https://rajatk21-sw-doggy-pe2mzu.streamlit.app/' target='_blank'>Contact</a>
             </p>
             </div>
