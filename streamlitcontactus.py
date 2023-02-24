@@ -28,10 +28,11 @@ def main():
             <div style='background-color: white; padding: 1px;'>
             <h1 style='font-family:Optima;color: #8B4513; text-align: center;'>Jorge & Jeff</h1>
             <p style='font-family: Optima;color: #8B4513; text-align: center; font-size: 20px;'> 
-            <a style='color: #8B4513; text-decoration: none;' href='/'>Homepage</a> | 
-            <a style='color: #8B4513; text-decoration: none;' href='/clothing'>Clothing</a> | 
-            <a style='color: #8B4513; text-decoration: none;' href='/about'>About</a> | 
-            <a style='color: #8B4513; text-decoration: none;' href='https://georginapalmer-teampage-teampage-1k7d1b.streamlit.app' target='_blank'>Team</a>
+            <a style='color: #8B4513; text-decoration: none;' href='https://charlotteg1224-scenarioweek-homepage-zb4jfq.streamlit.app/'target='_blank'>Homepage</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href=''target='_blank'>Ready To Wear</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href=''target='_blank'>Search Items</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href='https://georginapalmer-contactus-streamlitcontactus-49oqai.streamlit.app/'target='_blank'>About</a> | 
+            <a style='color: #8B4513; text-decoration: none;' href='https://rajatk21-sw-doggy-pe2mzu.streamlit.app/' target='_blank'>Team</a>
             </p>
             </div>
             """,
